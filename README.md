@@ -26,8 +26,8 @@ _ It**depends** _
 - [x] yes
 - [] no
 
- 3180 | 3250
- ------------ | ------------ | -------------
-credits | 3 | 2
-Empty seat| full| available
+3180 | 3250
+------------ | ------------ 
+credits |3 
+Empty seat| full
 
