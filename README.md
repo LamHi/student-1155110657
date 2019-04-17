@@ -24,10 +24,10 @@ __erb__
 _ It**depends** _
 
 - [x] yes
-- [] no
+- [ ] no
 
-3180 | 3250
+subject | 3250
 ------------ | ------------ 
-credits |3 
-Empty seat| full
+credits |2 
+Empty seat| available
 
