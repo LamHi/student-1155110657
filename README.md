@@ -33,3 +33,4 @@ Empty seat| available
 
 
 ![Image of shot1](https://github.com/csci3250-2019/student-1155110657/blob/master/Screenshot-1_milestone2_thomas.png)
+![Image of shot1](https://github.com/csci3250-2019/student-1155110657/blob/master/Screenshot-2_milestone2_thomas.png)
